@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q/gCOuoHgKTB5SXu0LyXm2eiWj+b+ygbecGG2q8bL5Nv0APu38ECk2wKaZQYTQ3xyKcc0brrNckP5C46fFjQbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\veyse\\OneDrive\\Masaüstü\\C# PROJELERİ\\PatikaOdev1\\PatikaOdev1\\PatikaOdev1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veyse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
