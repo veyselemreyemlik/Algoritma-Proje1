@@ -1,0 +1,16 @@
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\PatikaOdev3\PatikaOdev3\bin\Debug\net5.0\PatikaOdev3.exe
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\PatikaOdev3\PatikaOdev3\bin\Debug\net5.0\PatikaOdev3.deps.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\PatikaOdev3\PatikaOdev3\bin\Debug\net5.0\PatikaOdev3.runtimeconfig.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\PatikaOdev3\PatikaOdev3\bin\Debug\net5.0\PatikaOdev3.runtimeconfig.dev.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\PatikaOdev3\PatikaOdev3\bin\Debug\net5.0\PatikaOdev3.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\PatikaOdev3\PatikaOdev3\bin\Debug\net5.0\ref\PatikaOdev3.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\PatikaOdev3\PatikaOdev3\bin\Debug\net5.0\PatikaOdev3.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\PatikaOdev3\PatikaOdev3\obj\Debug\net5.0\PatikaOdev3.csproj.AssemblyReference.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\PatikaOdev3\PatikaOdev3\obj\Debug\net5.0\PatikaOdev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\PatikaOdev3\PatikaOdev3\obj\Debug\net5.0\PatikaOdev3.AssemblyInfoInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\PatikaOdev3\PatikaOdev3\obj\Debug\net5.0\PatikaOdev3.AssemblyInfo.cs
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\PatikaOdev3\PatikaOdev3\obj\Debug\net5.0\PatikaOdev3.csproj.CoreCompileInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\PatikaOdev3\PatikaOdev3\obj\Debug\net5.0\PatikaOdev3.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\PatikaOdev3\PatikaOdev3\obj\Debug\net5.0\ref\PatikaOdev3.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\PatikaOdev3\PatikaOdev3\obj\Debug\net5.0\PatikaOdev3.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\PatikaOdev3\PatikaOdev3\obj\Debug\net5.0\PatikaOdev3.genruntimeconfig.cache
